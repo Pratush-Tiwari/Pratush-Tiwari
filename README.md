@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Pratush-Tiwari. I am a Third-Year Undergraduate student pursuing my major in Civil Engineering at IIT Kharagpur. 
+- 👋 Hi, I’m @Pratush-Tiwari.
 - 👀 I have several intrigues and hobbies to practice and develop my skills, such as Competitive Programming, Web Development, Visual Designing, etc.
 - 🌱 I have a zealousness for innovation and love solving problems in ingenious ways. 
 
-- 📫 Looking forward to connecting. Reach out to me at pratushtiwari011@kgpian.iitkgp.ac.in
+- 📫 Looking forward to connecting. Reach out to me at pratushtiwari01@gmail.com
 
 
 <!---
