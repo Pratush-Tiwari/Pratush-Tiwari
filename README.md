@@ -1,11 +1,6 @@
-- 👋 Hi, I’m @Pratush-Tiwari.
-- 👀 I have several intrigues and hobbies to practice and develop my skills, such as Competitive Programming, Web Development, Visual Designing, etc.
-- 🌱 I have a zealousness for innovation and love solving problems in ingenious ways. 
+Hi, I’m Pratush Tiwari.
+I am a full-stack developer experienced in building scalable, production-ready applications using JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, MongoDB, and AWS. My work spans end-to-end product development, including architecture design, performance optimization, automation workflows, and deployment pipelines.
 
-- 📫 Looking forward to connecting. Reach out to me at pratushtiwari.iitkgp@gmail.com
+I have a strong inclination toward problem solving, system design, and creating solutions that are both efficient and maintainable. I actively explore new technologies, particularly in AI and backend engineering, to broaden my technical depth and contribute to impactful projects.
 
-
-<!---
-Pratush-Tiwari/Pratush-Tiwari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+For collaboration or opportunities, you can reach me at pratushtiwari.iitkgp@gmail.com
