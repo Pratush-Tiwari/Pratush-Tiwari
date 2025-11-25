@@ -1,6 +1,14 @@
-Hi, I’m Pratush Tiwari.
-I am a full-stack developer experienced in building scalable, production-ready applications using JavaScript, TypeScript, React, Node.js, Express, PostgreSQL, MongoDB, and AWS. My work spans end-to-end product development, including architecture design, performance optimization, automation workflows, and deployment pipelines.
+Pratush Tiwari
 
-I have a strong inclination toward problem solving, system design, and creating solutions that are both efficient and maintainable. I actively explore new technologies, particularly in AI and backend engineering, to broaden my technical depth and contribute to impactful projects.
+💼 Software Developer
+I build reliable and scalable systems with a strong focus on clean architecture, performance, and maintainability. My experience spans full-stack development, distributed backend services, and automation workflows.
 
-For collaboration or opportunities, you can reach me at pratushtiwari.iitkgp@gmail.com
+🛠️ Technical Focus
+JavaScript • TypeScript • React • Node.js • Express • PostgreSQL • MongoDB • AWS
+I’ve worked across product lifecycles—from designing system architecture to implementing features, optimizing performance, and deploying production-ready solutions.
+
+🚀 Engineering Approach
+I enjoy solving complex problems, designing robust systems, and creating solutions that balance efficiency with long-term scalability. My projects range from high-traffic web applications to internal tooling, Chrome extensions, and AI-integrated workflows.
+
+📫 Contact
+For collaboration or opportunities: pratushtiwari.iitkgp@gmail.com
