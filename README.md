@@ -82,7 +82,5 @@ For collaboration or opportunities: pratushtiwari.iitkgp@gmail.com
 ![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-**Design/Other:**
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Namecheap](https://img.shields.io/badge/Namecheap-000000?style=for-the-badge&logo=namecheap&logoColor=white)
